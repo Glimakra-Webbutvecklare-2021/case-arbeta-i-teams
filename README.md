@@ -7,12 +7,12 @@ I detta caset ska ni fokusera på att arbeta i grupper om 3-4 personer. Ni gör 
 * En mockup/prototyp som är godkänd av kund och/eller lärare
 * En publicerad testbar slutprodukt
 
-### Förstudietillwebbplats
+### Förstudie till webbplats
 - Vilka mål har en beställare med webbplatsen
 - Vilken är mål gruppen/mål grupperna av webbplatsen
 - Vad vill beställar en att webbplatsen ska tillföra/hantera
 - Vad vill användare att webbplatsen ska kunna hantera
-- Undersökning avliknande/konkurerande webbplatser
+- Undersökning av liknande/konkurerande webbplatser
 
 ### Versionshantering
 * Det ska vara möjligt att gå tillbaka till ett tillstånd i projektet innan valfri deluppgift har implementerats
